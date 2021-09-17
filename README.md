@@ -1,3 +1,3 @@
 # Preview Huruf
 
-![AXL Letter](./img/axl.png "AXL Letter")
+![AXL Letter](./img/axel.png "AXL Letter")
